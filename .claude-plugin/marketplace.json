@@ -1,0 +1,15 @@
+{
+  "name": "high-five",
+  "description": "High Five: a pre-launch security check for web apps.",
+  "owner": {
+    "name": "Yousef Mahrous",
+    "url": "https://github.com/ymahrous"
+  },
+  "plugins": [
+    {
+      "name": "high-five",
+      "source": "./",
+      "description": "Five security checks before you go live: RLS, backend checks, secrets in code and history, dependencies, and rate limits."
+    }
+  ]
+}

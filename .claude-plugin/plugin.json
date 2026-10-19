@@ -1,0 +1,14 @@
+{
+  "name": "high-five",
+  "displayName": "High Five",
+  "description": "Five security checks before you go live: RLS on every table, server-side auth and validation, no secrets in code or git history, known and up-to-date dependencies, and rate limits on APIs and login.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Yousef Mahrous",
+    "url": "https://github.com/ymahrous"
+  },
+  "homepage": "https://github.com/ymahrous/high-five",
+  "repository": "https://github.com/ymahrous/high-five",
+  "license": "MIT",
+  "keywords": ["security", "pre-launch", "checklist", "rls", "supabase", "postgres", "secrets", "dependencies", "rate-limiting", "owasp"]
+}
