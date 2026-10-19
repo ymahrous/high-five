@@ -9,6 +9,10 @@
   },
   "homepage": "https://github.com/ymahrous/high-five",
   "repository": "https://github.com/ymahrous/high-five",
+  "documentationUrl": "https://github.com/ymahrous/high-five#readme",
+  "supportUrl": "https://github.com/ymahrous/high-five/issues",
+  "privacyPolicyUrl": "https://github.com/ymahrous/high-five/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ymahrous/high-five/blob/main/LICENSE",
   "license": "MIT",
   "keywords": ["security", "pre-launch", "checklist", "rls", "supabase", "postgres", "secrets", "dependencies", "rate-limiting", "owasp"]
 }
